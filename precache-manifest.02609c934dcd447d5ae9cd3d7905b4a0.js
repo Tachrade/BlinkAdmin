@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9f146de636ef3f6f26943d47e4e5a2c",
+    "revision": "cdaa61cf40ccbbd46ada8c5ee89db526",
     "url": "/BlinkAdmin/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BlinkAdmin/static/js/2.414c3d68.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d8812719684247493a47",
-    "url": "/BlinkAdmin/static/js/main.8d64c717.chunk.js"
+    "revision": "a1615e4ef7e41d63d648",
+    "url": "/BlinkAdmin/static/js/main.f0f52678.chunk.js"
   },
   {
     "revision": "f64f73d19a4e932ff5f0",
