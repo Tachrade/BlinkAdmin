@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/BlinkAdmin/static/js/main.f0f52678.chunk.js",
-    "main.js.map": "/BlinkAdmin/static/js/main.f0f52678.chunk.js.map",
+    "main.js": "/BlinkAdmin/static/js/main.cd7c95b0.chunk.js",
+    "main.js.map": "/BlinkAdmin/static/js/main.cd7c95b0.chunk.js.map",
     "runtime-main.js": "/BlinkAdmin/static/js/runtime-main.708b48c8.js",
     "runtime-main.js.map": "/BlinkAdmin/static/js/runtime-main.708b48c8.js.map",
     "static/js/2.414c3d68.chunk.js": "/BlinkAdmin/static/js/2.414c3d68.chunk.js",
     "static/js/2.414c3d68.chunk.js.map": "/BlinkAdmin/static/js/2.414c3d68.chunk.js.map",
     "index.html": "/BlinkAdmin/index.html",
-    "precache-manifest.02609c934dcd447d5ae9cd3d7905b4a0.js": "/BlinkAdmin/precache-manifest.02609c934dcd447d5ae9cd3d7905b4a0.js",
+    "precache-manifest.1c7a1fd59bdcd5c054f07151f37d33f8.js": "/BlinkAdmin/precache-manifest.1c7a1fd59bdcd5c054f07151f37d33f8.js",
     "service-worker.js": "/BlinkAdmin/service-worker.js",
     "static/js/2.414c3d68.chunk.js.LICENSE.txt": "/BlinkAdmin/static/js/2.414c3d68.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.708b48c8.js",
     "static/js/2.414c3d68.chunk.js",
-    "static/js/main.f0f52678.chunk.js"
+    "static/js/main.cd7c95b0.chunk.js"
   ]
 }
